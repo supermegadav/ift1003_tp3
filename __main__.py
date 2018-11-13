@@ -15,4 +15,6 @@ if __name__ == '__main__':
     # partie.sauvegarder("ma_partie.txt")
 
     # Démarrage de cette partie.
+
+    # Just want to test if it will appear in my github
     partie.jouer()
